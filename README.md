@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+# React Youtube Player
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is the code that was created for a YouTube player clone built in React. 
+
+I followed this through a Udemy course here on [React and Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
 
